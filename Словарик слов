@@ -1,0 +1,52 @@
+meme_dict = {
+            "КРИНЖ": "Что-то очень странное или стыдное",
+            "ЛОЛ": "Что-то очень смешное",
+            "РОФЛ": "шутка",
+            "ЩИЩ": "одобрение или восторг",
+            "КРИПОВЫЙ": "страшный, пугающий",
+            "АГРИТЬСЯ": "злиться",
+            "ПОН": "понял, поняла",
+            "КЕЙС": "случай",
+            "ФАКАП": "провал",
+            "ЛИВНУТЬ": "уйти",
+            "ЧЕКАТЬ": "проверять, искать"
+            }
+print("Здравствуйте, это словарик непонятных слов из мемов v.1.0")
+word = input("Введите непонятное слово (большими буквами!): ")
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print("Извините, но такого слова нет")
+word = input("Введите непонятное слово (большими буквами!): ")
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print("Извините, но такого слова нет")
+word = input("Введите непонятное слово (большими буквами!): ")
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print("Извините, но такого слова нет")
+word = input("Введите непонятное слово (большими буквами!): ")
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print("Извините, но такого слова нет")
+word = input("Введите непонятное слово (большими буквами!): ")
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print("Извините, но такого слова нет")
+word = input("Введите непонятное слово (большими буквами!): ")
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print("Извините, но такого слова нет")
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print("Извините, но такого слова нет")
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print("Извините, но такого слова нет")
